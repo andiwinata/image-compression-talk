@@ -15,7 +15,6 @@ from scipy import misc
 # notation on print, default False
 np.set_printoptions(suppress=True)
 
-
 # From https://en.wikipedia.org/wiki/JPEG#JPEG_codec_example
 wiki_raw = np.array([
   [52, 55, 61, 66, 70, 61, 64, 73],
