@@ -1,0 +1,3 @@
+- https://dsp.stackexchange.com/questions/30196/basis-functions-in-dct
+- https://github.com/fubel/sparselandtools/blob/master/sparselandtools.ipynb
+- https://github.com/chalmersgit/Discrete-Cosine-Transform
